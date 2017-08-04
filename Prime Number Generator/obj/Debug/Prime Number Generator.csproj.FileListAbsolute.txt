@@ -1,0 +1,6 @@
+c:\users\shane_dev\documents\visual studio 2015\Projects\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.exe.config
+c:\users\shane_dev\documents\visual studio 2015\Projects\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.exe
+c:\users\shane_dev\documents\visual studio 2015\Projects\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.pdb
+c:\users\shane_dev\documents\visual studio 2015\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.exe
+c:\users\shane_dev\documents\visual studio 2015\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.pdb
+C:\Users\Shane_Dev\documents\visual studio 2015\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.csprojResolveAssemblyReference.cache
